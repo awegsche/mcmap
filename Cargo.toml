@@ -1,0 +1,7 @@
+[package]
+name = "mcmap"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ranvil = { git = "https://github.com/awegsche/ranvil.git", version = "0.1.0" }
